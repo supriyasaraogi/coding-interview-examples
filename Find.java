@@ -78,7 +78,7 @@ class Filter {
     
 class FileFinder {
     File root;
-    public FileRoot(File curr) {
+    public FileFinder(File curr) {
         this.root = curr;
     }
     
